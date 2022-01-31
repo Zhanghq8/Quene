@@ -1,4 +1,4 @@
-# Quene
+# Queue
 Quene practice(array based and linked list based)   
 ## Maintainer
 - [Hanqing Zhang], <<hzhang8@wpi.edu>>, WPI   
